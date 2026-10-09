@@ -1,0 +1,32 @@
+p{color:rgb(131, 88, 88);
+font-weight: bold;
+font-size: 30px;
+font-family: cursive;}
+h1{color:rgb(20, 14, 4);
+font-weight: bold;
+font-size: 50px;
+font-family: cursive;}
+body{color: aqua;
+background-image: url(bc.jpg);
+background-blend-mode: soft-light;}
+div{
+width: 870px;
+padding: 20px;
+margin: auto;
+background-color: burlywood;
+
+
+}
+.text{
+font-size: 50pt;
+font-weight: normal;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.tytul{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14pt;
+    font-weight:bold ;
+
+}
